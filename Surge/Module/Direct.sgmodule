@@ -1,0 +1,5 @@
+#!name=Direct Only
+#!desc=跳过代理直接访问
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/rick-zhang/Profiles-DivineEngine/master/Surge/Ruleset/US.list, Direct
