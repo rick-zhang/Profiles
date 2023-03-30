@@ -1,5 +1,0 @@
-#!name=US Only
-#!desc=直走美国代理
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/rick-zhang/Profiles-DivineEngine/master/Surge/Ruleset/US.list, 📡 Global
