@@ -1,8 +1,5 @@
 #!name=US Only
 #!desc=直走美国代理
 
-[Proxy Group]
-🇺🇸 US = select, Direct, Nexitally, 🇺🇸 USA Seattle 01,🇺🇸 USA Seattle 02,🇺🇸 USA Seattle 03,🇺🇸 USA Seattle 04,🇺🇸 USA Seattle 05,🇺🇸 USA Seattle 06,🇺🇸 USA Seattle 07,🇺🇸 USA Seattle 08,🇺🇸 USA Seattle 09,🇺🇸 USA San Jose 01 [Premium],🇺🇸 USA San Jose 02 [Premium],🇺🇸 USA San Jose 03 [Premium],🇺🇸 USA San Jose 04 [Premium],🇺🇸 USA San Jose 05 [Premium],🇺🇸 USA San Jose 06 [Premium],🇺🇸 USA San Jose 07,🇺🇸 USA San Jose 08
-
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/rick-zhang/Profiles-DivineEngine/master/Surge/Ruleset/US.list, 🍎 Apple
+RULE-SET,https://raw.githubusercontent.com/rick-zhang/Profiles-DivineEngine/master/Surge/Ruleset/US.list, 📡 Global
