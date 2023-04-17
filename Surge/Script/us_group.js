@@ -16,4 +16,5 @@ $httpClient.get(url, function (error, response, data) {
   $surge.setSelectGroupPolicy('US', 'url-test', usNodes);
 });
 
-$done();
+$done({});
+
