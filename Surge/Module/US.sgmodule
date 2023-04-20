@@ -1,0 +1,5 @@
+#!name=Global
+#!desc=走国外代理
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/rick-zhang/Profiles-DivineEngine/master/Surge/Ruleset/US.list,🇺🇲 美国节点
