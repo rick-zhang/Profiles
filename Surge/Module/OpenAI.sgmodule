@@ -2,4 +2,4 @@
 #!desc=⚛️ OpenAI
 
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/rick-zhang/Profiles/master/Surge/Ruleset/OpenAI.list?token=GHSAT0AAAAAAB6B2DPWXT4HJNMT2PBN56EOZCBOMQQ,🇺🇲 美国节点
+RULE-SET,https://raw.githubusercontent.com/rick-zhang/Profiles/master/Surge/Ruleset/OpenAI.list,🇺🇲 美国节点
